@@ -1,0 +1,1 @@
+#This program is to split folders into train, validation and test dataset folders
