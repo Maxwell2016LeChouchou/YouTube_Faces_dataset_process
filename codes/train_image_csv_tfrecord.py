@@ -75,16 +75,16 @@ def create_tf_example(group, path):
 
 #     return image_list
 
-def get_imagelist(file_path):
-    image_list = []
+# def get_imagelist(file_path):
+    # image_list = []
 
-    for home, dirs, files in os.walk(file_path):
-        for filename in files:
-            image_list.append(os.path.join(home,filename))
+    # for home, dirs, files in os.walk(file_path):
+       # for filename in files:
+           # image_list.append(os.path.join(home,filename))
 
     #return image_list
-    print("successfully get image list")
-    return image_list
+    # print("successfully get image list")
+    # return image_list
 
 
 # def get_csvlist(csv_input):
