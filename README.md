@@ -1,4 +1,4 @@
-# cosine_metric_learning_face_tracking
+# YouTube_Faces_dataset_process
 
    The data_process file consists of to convert YoutubeFace datasets which can be downloaded from https://www.cs.tau.ac.il/~wolf/ytfaces/ to corresponding datasets. YoutubeFace datasets layout is that one parent folder represents one Youtube Celebrity, one parent folder has a few sub-folders which are a few of different videos having been extracted to image frames.
 
